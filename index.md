@@ -15,9 +15,9 @@ Here is a funny terminal command that you should try:
 [Funny Link](https://github.com/NathanNewwin)
 
 This is my adoable little baby:
-![meow](/assets/images/IMG_4726.jpg)
-![meow](/assets/images/IMG_4896.jpg)
-![meow](/assets/images/IMG_4956.jpg)
+![meow](images/IMG_4726.jpg)
+![meow](images/IMG_4896.jpg)
+![meow](images/IMG_4956.jpg)
 
 Things I Enjoy:
 - Food
