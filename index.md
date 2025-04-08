@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # Nathan Nguyen
 > **Computer Science** Major\
 > Third Year Transfer
